@@ -1,6 +1,10 @@
 # fitvids-mootools
 A reworking of the popular jQuery fitvids plugin (https://github.com/davatron5000/FitVids.js) for MooTools.
 
+```diff
+- No longer maintained by the author, since Nov 2015
+```
+
 ## Usage
 
 ```html
